@@ -1,3 +1,5 @@
+# SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
+
 ## Overview
 
 The project focuses on embedding sensitive information, such as text or binary data, into digital images in an imperceptible manner using OpenCV's steganography capabilities. The goal is to provide a secure means of transmitting sensitive data without raising suspicions.
