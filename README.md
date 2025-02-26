@@ -34,7 +34,7 @@ python decrypt.py
 ```
 
 Steps:
-The script reads encryptedImage.jpg.
+The script reads encryptedImage.png.
 You must enter the correct password.
 If the password matches, the hidden message is displayed.
 If the password is incorrect, access is denied.
@@ -44,7 +44,7 @@ If the password is incorrect, access is denied.
 2. decrypt.py - Script to extract the secret message from the image.
 3. mypic.jpg - Original image used for encryption.
 4. key.txt - Stores the password required for decryption.
-5. encryptedImage.jpg - Image containing the hidden message.
+5. encryptedImage.png - Image containing the hidden message.
 
 ## Features
 1. Multi-Layer Encryption: Combines multiple encryption layers to enhance data security.
