@@ -28,8 +28,8 @@ for n in range(img.shape[0]):
             continue
         break
 
-cv2.imwrite("encryptedImage.jpg", img)
-print("Encryption done. Saved as 'encryptedImage.jpg'.")
+cv2.imwrite("encryptedImage.png", img)
+print("Encryption done. Saved as 'encryptedImage.png'.")
 
 # Open the encrypted image (Windows only)
-os.system("start encryptedImage.jpg")
+os.system("start encryptedImage.png")
